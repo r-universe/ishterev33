@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "BHTSpack"]
+	path = BHTSpack
+	url = https://github.com/cran/BHTSpack
+[submodule "highSCREEN"]
+	path = highSCREEN
+	url = https://github.com/cran/highSCREEN
+[submodule "permPATH"]
+	path = permPATH
+	url = https://github.com/cran/permPATH
